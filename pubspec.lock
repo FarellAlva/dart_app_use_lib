@@ -77,11 +77,11 @@ packages:
     dependency: "direct main"
     description:
       path: dart_library_test
-      ref: "1.0.0"
-      resolved-ref: "7c835e0b3eb1b1d80db41e0022f8baa209f6a5a5"
+      ref: "1.0.1"
+      resolved-ref: "8c6d59a8c23e48664d80f0be8cf91820df2b89cb"
       url: "https://github.com/FarellAlva/dart_library_test.git"
     source: git
-    version: "1.0.0"
+    version: "1.0.1"
   file:
     dependency: transitive
     description:

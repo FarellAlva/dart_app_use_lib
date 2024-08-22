@@ -1,6 +1,6 @@
 // ignore_for_file: unused_local_variable
 
-import 'package:dart_library_test/helo.dart';
+import 'package:dart_library_test/hello.dart';
 
 void main() {
   print(sayHello('udin')); // Fungsi sayHello dari src/say_hello.dart
